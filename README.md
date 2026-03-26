@@ -71,5 +71,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
 </div>
+<div>
+  <img src="https://media.giphy.com/media/qgQUggACnIBS/giphy.gif" width="400">
+</div>
 
 ###
