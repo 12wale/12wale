@@ -1,79 +1,63 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Waleed</h1>
+<h3 align="center">Frontend Developer | React.js • Next.js • TypeScript | Academic Instructor</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+clean+React+%2F+Next.js+interfaces;Full-Stack+MERN+Developer;Teaching+Networking%2C+GIS+%26+DSS" alt="Typing SVG" />
+</p>
 
-<h1 align="left">My name is Waleed and I'm a Web Developer from Egypt</h1>
+---
 
-###
+### 🚀 About Me
 
-<h2 align="left">About me</h2>
+- 💻 Frontend Developer specializing in **React.js**, **Next.js**, and **TypeScript**
+- 🎨 Comfortable across the full stack with the **MERN** stack and **REST API** integration
+- 🗂️ State management with **Redux** and **Zustand**, styling with **Tailwind CSS**
+- 🎓 Also teach academic courses in **Networking**, **GIS**, and **Decision Support Systems** at Fayoum University
+- 🌱 Experience built through freelance projects and internships
+- 🤖 Working knowledge of AI/ML concepts — from teaching AI foundations to building AI-assisted tools
+- 📍 Based in Egypt
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2 years<br>📚 I'm currently love  learning all computer science<br>🎯 Goals: Being Best Software Enginner<br>🎲 Fun fact: I love Bugs</p>
+### 🛠️ Tech Stack
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,redux,git,figma,python" />
+</p>
 
-<h2 align="left">I code with and my tools</h2>
+---
 
-###
+### 🤖 AI & Machine Learning
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-</div>
+- 🧠 Teach an **AI & Programming Foundations** course covering Machine Learning, Deep Learning, and Generative AI concepts
+- 🐍 Build **Python-based AI-assisted tools** — e.g. an AI-driven batch logo-replacement desktop app for product images
+- 📊 Studied and produced revision material for **ML with Python** (data preprocessing, model evaluation, algorithms)
+- 🔍 Applied AI-content-analysis techniques to evaluate whether submitted work was human- or AI-written
+- 🧩 Integrate AI-assisted workflows into everyday development and content-creation tasks
 
-###
+---
 
-<h2 align="left">I code with and my tools</h2>
+### 📊 GitHub Stats
 
-###
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-</div>
-<div>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%">
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="streak stats" />
+</p>
 
-###
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Waleed</a></i></p>
