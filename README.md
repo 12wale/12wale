@@ -14,7 +14,7 @@
 - 🗂️ State management with **Redux** and **Zustand**, styling with **Tailwind CSS**
 - 🎓 Also teach academic courses in **Networking**, **GIS**, and **Decision Support Systems** at Fayoum University
 - 🌱 Experience built through freelance projects and internships
-- 🤖 Working knowledge of AI/ML concepts — from teaching AI foundations to building AI-assisted tools
+- 🤖 Working knowledge of AI/ML concepts  from teaching AI foundations to building AI-assisted tools
 - 📍 Based in Egypt
 
 ---
@@ -30,7 +30,7 @@
 ### 🤖 AI & Machine Learning
 
 - 🧠 Teach an **AI & Programming Foundations** course covering Machine Learning, Deep Learning, and Generative AI concepts
-- 🐍 Build **Python-based AI-assisted tools** — e.g. an AI-driven batch logo-replacement desktop app for product images
+- 🐍 Build **Python-based AI-assisted tools**  e.g. an AI-driven batch logo-replacement desktop app for product images
 - 📊 Studied and produced revision material for **ML with Python** (data preprocessing, model evaluation, algorithms)
 - 🔍 Applied AI-content-analysis techniques to evaluate whether submitted work was human- or AI-written
 - 🧩 Integrate AI-assisted workflows into everyday development and content-creation tasks
